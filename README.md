@@ -6,3 +6,4 @@ Ufak bir örnek.
 # 30 Starda Sizlerle.
 # Discord 
 null ✬#1002
+null#400

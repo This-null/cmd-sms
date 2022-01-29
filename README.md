@@ -1,15 +1,8 @@
-# null cmd sms
-###### Öncelikle Selamlar.
-###### Bu bot ne işe yarar?
-###### Aşşağıdaki Örnekten de gördüğünüz üzere rol silince sunucudaki rollerin permlerini sıfırlar ve kullanıcıyı banlar bi nevi guard sistemi.
-###### Bunu yaparken size silinen rolün ıd sini ve yapan kişinin ıd sini telefonuza özel sms ile size yollar.
-###### Ufak bir örnek.
+# Yeni versiyon 0.0.2
 
-# Bu sallamasyon sistemini az değişem atıcam 
-###### aşşada discord var oradan yazın amk
+###### Yakında Paylaşırım
 
-![Adsız](https://user-images.githubusercontent.com/60463845/126866975-7e05f862-9bbf-4bd3-b2cf-8317fa415a1b.png)
-
-# Discord 
+<h2 align="center">Discord Hesaplarım <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/311625016276025364?hideDiscrim=true)](https://discord.com/users/311625016276025364)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/770307586477522964?hideDiscrim=true)](https://discord.com/users/770307586477522964)

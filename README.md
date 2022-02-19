@@ -1,5 +1,7 @@
 # Yeni versiyon 0.0.2
 
+# 50 Starda sizlerle
+
 # Yenilikler 
 
 ###### Rol silinince otomatik ban atma ve yöneticileri kapatma 

@@ -1,5 +1,9 @@
 # Yeni versiyon 0.0.2
 
+# Yenilikler 
+
+###### Rol silinince otomatik ban atma ve yöneticileri kapatma 
+
 ###### Örnek Resimler
 ![dd](https://user-images.githubusercontent.com/60463845/154804118-37b6cf68-30b3-42dd-83d6-ad93af513db4.png)
 ![aa](https://user-images.githubusercontent.com/60463845/154804121-9dc45e0d-a558-4549-a707-cfb29463a9c9.png)

@@ -9,6 +9,8 @@
 
 # 🖐 Önemli 
 
+###### Ayrıca web sitesi sizlere ücretsiz 2£ veriyor her sms te 0,2£ kesiyor
+###### ekmek.json dosyasında null yazan yeri silerseniz telefonunuza mesaj gelmez haberiniz olsun :)
 ###### https://dashboard.nexmo.com/ sitesine girerek kayıt olunuz oradan sms kısmını seçerek api key ve secret kodunu alınız yoksa çalıştıramazsınız.
 
 # 🎀 Açıklama

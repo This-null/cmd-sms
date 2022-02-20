@@ -7,6 +7,10 @@
 ###### Ban atma özelliği
 ###### Yönetici kapatma özelliği
 
+# 🖐 Önemli 
+
+###### https://dashboard.nexmo.com/ sitesine girerek kayıt olunuz oradan sms kısmını seçerek api key ve secret kodunu alınız yoksa çalıştıramazsınız.
+
 # 🎀 Açıklama
 ###### Beni görünce sunucunuzdan banlamanıza gerek yok sizelere kızmıyorum fakat botları alıp insanlara 300 400 TL civarında satış yapıyorsunuz bunu yapmayın.
 

@@ -1,0 +1,19 @@
+{
+  "name": "null-sms",
+  "version": "0.0.3",
+  "description": "Sunucularda rol silinince telefon numarasına mesaj atan sistem.",
+  "main": "null.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "null-mustafa",
+  "license": "MIT",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.10",
+    "discord.js": "^12.5.3",
+    "express": "^4.17.3",
+    "humanize-duration": "^3.27.1",
+    "moment": "^2.29.1"
+  }
+}

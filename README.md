@@ -1,10 +1,14 @@
-# Yeni versiyon 0.0.2
+# 💬 NULL SMS SISTEMI
 
-# 50 Starda sizlerle
 
-# Yenilikler 
+# 🌟 Yenilikler
 
-###### Rol silinince otomatik ban atma ve yöneticileri kapatma 
+###### SMS logu güncellemesi.
+###### Ban atma özelliği
+###### Yönetici kapatma özelliği
+
+# 🎀 Açıklama
+###### Beni görünce sunucunuzdan banlamanıza gerek yok sizelere kızmıyorum fakat botları alıp insanlara 300 400 TL civarında satış yapıyorsunuz bunu yapmayın.
 
 # Örnek Resimler
 ![unknown](https://user-images.githubusercontent.com/60463845/154804357-9d252f5c-1722-442f-9171-2c71965dbc0c.png)
